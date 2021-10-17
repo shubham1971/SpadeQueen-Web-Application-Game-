@@ -1,0 +1,87 @@
+.container-5 {
+    border: 1px solid black;
+    width:  75%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+
+.header-img{
+    border: 1px solid black;
+    width:  75%;
+    margin: 0 auto;
+    text-align: center;
+    background: url('https://cdn.pixabay.com/photo/2016/04/24/17/27/leaves-1350175__340.jpg');
+    color: white;
+    font-family:  emoji ;
+
+}
+
+
+
+.flex-SpadeQueen-row-1, .flex-SpadeQueen-row-2, .flex-SpadeQueen-row-3{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+    justify-content: space-around;
+    border: 1px solid green;
+    flex-direction: row;
+}
+
+.flex-SpadeQueen-row-1 {
+    background: url('https://www.setaswall.com/wp-content/uploads/2018/02/Green-Background-12-1650x816.jpg');
+    color: white;
+}
+
+.flex-SpadeQueen-row-2{
+    background: url('https://cdn.pixabay.com/photo/2016/07/05/16/53/leaves-1498985_960_720.jpg');
+    color: white;
+    
+}
+
+.flex-SpadeQueen-row-3{
+    background: url('https://cdn.pixabay.com/photo/2016/07/05/16/53/leaves-1498985_960_720.jpg');
+    color:white;
+    font-weight: 900;
+      
+        
+      
+}
+
+.flex-SpadeQueen-row-1 div{
+    border:  1px solid green;
+    padding: 10px;
+    flex: 1;
+    height: 350px;
+    text-align: center;
+}
+
+.flex-SpadeQueen-row-2 div{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.flex-SpadeQueen-row-1 img{
+    width: 25%;
+    padding: 10px;
+}
+
+.flex-SpadeQueen-row-2 button{
+    border: 1px solid black;
+    padding: 10px;
+
+}
+
+table , td,th{
+    padding: 5px;
+    border: 1px solid black;
+
+}
+
+
+
+
+
+
+
